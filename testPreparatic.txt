@@ -1,0 +1,133 @@
+A1 - A.Temas generales.  - I. Marco constitucional español y Unión Europea 
+A2 - A.Temas generales.  - II. Actuación administrativa y gestión financiera. 
+A3 - A.Temas generales.  - III. Estructura social y económica de España 
+A4 - A.Temas generales.  - IV. Dirección pública
+B1 - B.Temas específicos.  - I.Organización y gestión de los sistemas de información
+B2 - B.Temas específicos.  - II. Tecnología básica
+B3 - B.Temas específicos.  - III. Ingeniería de los Sistemas de Información
+B4 - B.Temas específicos.  - IV. Redes, Comunicaciones e Internet
+T1 - 1 - A1 - La Constitución española de 1978 (I). - La Constitución española de 1978 (I). Los principios constitucionales. Los derechos fundamentales y sus garantías. La Corona. Cortes Generales. Congreso de los Diputados y Senado. El Gobierno. Los Órganos constitucionales de control del Gobierno: Tribunal de Cuentas, Defensor del Pueblo. La función consultiva: El Consejo de Estado.
+T2 - 2 - A1 - La constitución española de 1978 (II). - La Constitución española de 1978 (II). El Poder Judicial. La justicia en la Constitución. El Consejo General del Poder Judicial. El Ministerio Fiscal. El Tribunal Constitucional. Naturaleza, organización y atribuciones.
+T3 - 3 - A1 - La constitución española de 1978 (III). - La Constitución española de 1978 (III). Las Comunidades Autónomas: organización política y administrativa. La Administración Local: Regulación constitucional y entidades que la integran.
+T4 - 4 - A1 - La constitución española de 1978 (IV). - La Constitución española de 1978 (IV). La Administración Pública: Principios constitucionales. La Administración General del Estado. Sus órganos centrales.
+T5 - 5 - A1 - La Unión Europea: antecedentes, evolución y objetivos. - La Unión Europea: antecedentes, evolución y objetivos. Los tratados originarios y modificativos. El Derecho de la Unión Europea. Fuentes. Relación entre el Derecho de la Unión Europea y el ordenamiento jurídico de los Estados miembros. La participación del Estados miembros en el proceso decisorio.
+T6 - 6 - A1 - Las Instituciones de la Unión Europea. - Las Instituciones de la Unión Europea: el Consejo Europeo, el Consejo, la Comisión Europea, el Parlamento Europeo el Tribunal de Justicia de la Unión Europea, el Tribunal de Cuentas y el Banco Central Europeo.
+T7 - 7 - A2 - Procedimiento administrativo presencial y telemático. - El régimen jurídico de las Administraciones Públicas. El procedimiento administrativo y la relación de los ciudadanos con las Administraciones Públicas. La colaboración entre Administraciones mediante acuerdos y convenios. La colaboración público-privada.
+T8 - 8 - A2 - La revisión de los actos en vía administrativa. - La revisión de los actos en vía administrativa. Los recursos administrativos. El recurso contencioso-administrativo.
+T9 - 9 - A2 - La responsabilidad patrimonial de las Administraciones Públicas. - La responsabilidad patrimonial de las Administraciones Públicas. Procedimiento de responsabilidad patrimonial. La acción de responsabilidad.
+T10 - 10 - A2 - Los contratos de las Administraciones Públicas. - Los contratos de las Administraciones Públicas. Principios comunes. La Ley de Contratos del Sector Público. Requisitos necesarios para la celebración de los contratos. Procedimientos de contratación y formas de adjudicación. Tipos de contratos y características generales. La facturación en el Sector Público.
+T11 - 11 - A2 - Los presupuestos generales del Estado. - Los presupuestos generales del Estado. Estructura del presupuesto: Clasificación de los gastos. Las modificaciones presupuestarias. La ejecución del gasto y su control. El control interno: La Intervención General de la Administración del Estado. El control externo: El Tribunal de Cuentas y las Cortes Generales.
+T12 - 12 - A3 - El modelo económico español. - El modelo económico español en el marco de la economía mundial. El crecimiento sostenible y las políticas ambientales. Líneas generales de la política económica actual.
+T13 - 13 - A3 - Los sectores de la economía. - El sector primario. El sector industrial. El sector servicios. Los subsectores de comercio, transportes y comunicaciones. El turismo.
+T14 - 14 - A3 - Estructura social y políticas de igualdad. - La estructura social. Tendencias demográficas. Políticas de igualdad de género. Discapacidad y dependencia. Políticas contra la violencia de género.
+T15 - 15 - A3 - El mercado de trabajo. - El mercado de trabajo: Evolución y características actuales. Principales magnitudes. Políticas públicas de empleo.
+T16 - 16 - A3 - TIC y sociedad. - El impacto de las tecnologías de la información y las comunicaciones en la sociedad. La brecha digital. Nuevos hábitos de relación y de consumo de la información.
+T17 - 17 - A3 - TIC y mercado de trabajo. - El impacto de las tecnologías de la información y las comunicaciones en la economía y en el mercado de trabajo. Principales magnitudes.
+T18 - 18 - A4 - La función gerencial de las AAPP. - La función gerencial en las Administraciones Públicas. Particularidades de la gestión pública.
+T19 - 19 - A4 - La calidad en los servicios públicos. - La calidad en los servicios públicos y el papel de las TIC en su modernización. La legislación en materia de sociedad de la información y administración electrónica en España y Europa.
+T20 - 20 - A4 - Modelo burocrático, management y gobernanza. - La crisis de la burocracia como sistema de gestión. La adecuación de técnicas del sector privado. El «management» público y la gobernanza. Hacia la excelencia en las instituciones públicas.
+T21 - 21 - A4 - Gestión del conocimiento. - La gestión del conocimiento y el capital intelectual en las organizaciones.
+T22 - 22 - A4 - Ética pública y transparencia. - Ética Pública, transparencia, acceso a la información pública y buen gobierno. La ley 79/2013, de transparencia, acceso a la información pública y buen gobierno. El Consejo de Transparencia y Buen Gobierno: Real Decreto 979/2OI4, por el que se aprueba su estatuto. Funciones. La Oficina de Transparencia y Acceso a la Información (OTAI): Funciones. El Portal de Transparencia. Las Unidades de Información y Transparencia (UITS): Funciones, La transparencia y el acceso a la información en las Comunidades Autónomas y Entidades Locales.
+T23 - 23 - A4 - Emprendimiento y unidad de mercado. - La dinamización y el apoyo a la actividad económica y al emprendimiento. La garantía de la unidad de mercado.
+T24 - 24 - B1 - Conceptos de sistemas de información. - Definición, estructura, y dimensionamiento eficiente de los Sistemas de Información.
+T25 - 25 - B1 - La información en las organizaciones. - La información en las organizaciones. Las organizaciones basadas en la información. La Administración como caso específico de este tipo de organización.
+T26 - 26 - B1 - Gobernanza TIC. - Modelos de Gobernanza TIC. Organización e instrumentos operativos de las tecnologías de la información y las comunicaciones en la Administración General del Estado y sus Organismos Públicos. La Transformación Digital de la Administración General del Estado.
+T27 - 27 - B1 - Reutilización de la información del sector público. - Reutilización de la Información en el Sector Público en Europa y España. Papel de las TIC en la implantación de políticas de datos abiertos y transparencia.
+T28 - 28 - B1 - Directivo TIC. - Estrategia, objetivos y funciones del directivo de Sistemas y Tecnologías de la Información en la Administración.
+T29 - 29 - B1 - Herramientas para el directivo TIC. - Herramientas de planificación y control de gestión de la función del directivo de Sistemas y Tecnologías de la Información en la Administración. El cuadro de mando.
+T30 - 30 - B1 - Centro de sistemas de información. - Organización y funcionamiento de un Centro de Sistemas de Información. Funciones de: desarrollo, mantenimiento, sistemas, bases de datos, comunicaciones, seguridad, calidad, microinformática y atención a usuarios.
+T31 - 31 - B1 - Dirección y gestión de proyectos TIC. - Dirección y gestión de proyectos de tecnologías de la información. Planificación estratégica, gestión de recursos, seguimiento de proyectos, toma de decisiones.
+T32 - 32 - B1 - Gestión de equipos. - Liderazgo. Gestión de competencias y personas. Gestión de conflictos e inteligencia emocional en el puesto de trabajo. Técnicas de negociación y gestión comercial.
+T33 - 33 - B1 - Metodologías predictivas para la gestión de proyectos. - Metodologías predictivas para la gestión de proyectos: GANTT, PERT.
+T34 - 34 - B1 - Metodologías lean. - Metodologías ágiles para la gestión de proyectos. Metodologías lean.
+T35 - 35 - B1 - LOPD - La política de protección de datos de carácter personal. Normativa. La Agencia Española de Protección de Datos.
+T36 - 36 - B1 - Auditoría informática. - Auditoría Informática. Concepto y contenidos. Administración, planeamiento, organización, infraestructura técnica y prácticas operativas.
+T37 - 37 - B1 - Ley de contratos. - La gestión de la compra pública de tecnologías de la información.
+T38 - 38 - B1 - Adquisición de sistemas. - Adquisición de sistemas: Estudio de alternativas, evaluación de la viabilidad y toma de decisión.
+T39 - 39 - B1 - Alternativas de decisión. - Alternativas básicas de decisión en el campo del equipamiento hardware y software.
+T40 - 40 - B1 - Rentabilidad de las inversiones. - La rentabilidad de las inversiones en los proyectos de Tecnologías de la Información.
+T41 - 41 - B1 - Protección jurídica del software. - La protección jurídica de los programas de ordenador. Los medios de comprobación de la legalidad y control del software.
+T42 - 42 - B1 - Accesibilidad y usabilidad. - Accesibilidad y usabilidad. W3C. Diseño universal. Diseño web adaptativo.
+T43 - 43 - B1 - ENI - Interoperabilidad de sistemas (1). El Esquema Nacional de Interoperabilidad. Dimensiones de la interoperabilidad.
+T44 - 44 - B1 - NTI - Interoperabilidad de sistemas (2). Las Normas Técnicas de Interoperabilidad. Interoperabilidad de los documentos y expedientes electrónicos y normas para el intercambio de datos entre Administraciones Públicas.
+T45 - 45 - B1 - Análisis y gestión de riesgos. - Seguridad de sistemas (1). Análisis y gestión de riesgos. Herramientas.
+T46 - 46 - B1 - ENS. - Seguridad de sistemas (2). El Esquema Nacional de Seguridad. Adecuación al Esquema Nacional de Seguridad. Estrategia Nacional de Seguridad. CCN-STIC.
+T47 - 47 - B1 - Infraestructuras y servicios comunes. - Infraestructuras, servicios comunes y compartidos para la interoperabilidad entre AAPPs. Cl@ve, la Carpeta Ciudadana, el Sistema de Interconexión de Registros, la Plataforma de Intermediación de Datos, y otros servicios.
+T48 - 48 - B1 - Organizaciónes de normalización. - Organizaciones internacionales y nacionales de normalización. Pruebas de conformidad y certificación. El establecimiento de servicios de pruebas de conformidad.
+T49 - 49 - B2 - Sistemas de altas prestaciones. - Sistemas de altas prestaciones. Grid Computing. Mainframe.
+T50 - 50 - B2 - Equipos departamentales y servidores. - Equipos departamentales. Servidores. Medidas de seguridad para equipos departamentales y servidores. Centros de proceso de datos: diseño, implantación y gestión.
+T51 - 51 - B2 - Dispositivos personales y móviles. - Dispositivos personales de PC y dispositivos móviles. La conectividad de los dispositivos personales. Medidas de seguridad y gestión para equipos personales y dispositivos móviles.
+T52 - 52 - B2 - Cloud computing. - Cloud Computing. IaaS, PaaS, SaaS. Nubes privadas, públicas e híbridas.
+T53 - 53 - B2 - Sistemas de almacenamiento. - Sistemas de almacenamiento para sistemas grandes y departamentales. Dispositivos para tratamiento de información multimedia. Virtualización del almacenamiento. Copias de seguridad.
+T54 - 54 - B2 - Sistemas de información multiusuario. - Tipos de sistemas de información multiusuario. Sistemas grandes, medios y pequeños. Servidores de datos y de aplicaciones. Virtualización de servidores.
+T55 - 55 - B2 - Arquitectura SOA. - El procesamiento cooperativo y la arquitectura cliente-servidor. Arquitectura SOA.
+T56 - 56 - B2 - Sistemas Operativos. - Conceptos y fundamentos de sistemas operativos. Evolución y tendencias.
+T57 - 57 - B2 - UNIX-LINUX. - Sistemas operativos UNIX-LINUX. Fundamentos, administración, instalación, gestión.
+T58 - 58 - B2 - Microsoft. - Sistemas operativos Microsoft. Fundamentos, administración, instalación, gestión.
+T59 - 59 - B2 - Sistemas Operativos para móviles. - Conceptos básicos de otros sistemas operativos: OS X, iOS, Android, z/OS. Sistemas operativos para dispositivos móviles.
+T60 - 60 - B2 - Sistemas de gestión de bases de datos. - Los sistemas de gestión de bases de datos SGBD. El modelo de referencia de ANSI.
+T61 - 61 - B2 - El modelo relacional. - El modelo relacional. El lenguaje SQL. Normas y estándares para la interoperabilidad entre gestores de bases de datos relacionales.
+T62 - 62 - B2 - Arquitectura de desarrollo en la web. - Arquitectura de desarrollo en la web. Desarrollo web front-end. Scripts de cliente. Frameworks. UX. Desarrollo web en servidor, conexión a bases de datos e interconexión con sistemas y servicios.
+T63 - 63 - B2 - Entorno de desarrollo Microsoft.NET. - Entorno de desarrollo Microsoft.NET.
+T64 - 64 - B2 - Entorno de desarrollo JAVA. - Entorno de desarrollo JAVA.
+T65 - 65 - B2 - Entorno de desarrollo PHP. - Entorno de desarrollo PHP.
+T66 - 66 - B2 - Software de código abierto y libre. - Software de código abierto. Software libre. Conceptos base. Aplicaciones en entorno ofimático y servidores Web.
+T67 - 67 - B2 - Inteligencia artificial. - Inteligencia artificial: la orientación heurística, inteligencia artificial distribuida, agentes inteligentes.
+T68 - 68 - B2 - Gestión del conocimiento. - Gestión del conocimiento: representación del conocimiento. Sistemas expertos. Herramientas.
+T69 - 69 - B2 - Sistemas CRM y ERP. - Sistemas CRM (Customer Relationship Management) y ERP (Enterprise Resource Planning). Generación de informes a la Dirección.
+T70 - 70 - B2 - E-learning. - E-learning: Conceptos, herramientas, sistemas de implantación y normalización.
+T71 - 71 - B2 - Los sistemas GIS. - Los sistemas de información geográfica. Conceptos y funcionalidad básicos.
+T72 - 72 - B2 - Datawarehouse y minería de datos. - Gestión de los datos corporativos. Almacén de datos (Data-Warehouse). Arquitectura OLAP. Minería de datos.
+T73 - 73 - B2 - Big Data. - Big Data. Captura, análisis, transformación, almacenamiento y explotación de conjuntos masivos de datos. Entornos Hadoop o similares. Bases de datos NoSQL.
+T74 - 74 - B2 - Lenguajes de marcado. - Lenguajes y herramientas para la utilización de redes globales. HTML, CSS y XML. Navegadores web y compatibilidad con estándares.
+T75 - 75 - B2 - Comercio electrónico. - Comercio electrónico. Mecanismos de pago. Gestión del negocio. Factura electrónica. Pasarelas de pago.
+T76 - 76 - B2 - El cifrado. - El cifrado. Algoritmos de cifrado simétricos y asimétricos. La función hash. El notariado.
+T77 - 77 - B2 - Identificación y firma electrónica I. - Identificación y firma electrónica (1) Marco europeo y nacional. Certificados digitales. Claves privadas, públicas y concertadas. Formatos de firma electrónica. Protocolos de directorio basados en LDAP y X.500. Otros servicios.
+T78 - 78 - B2 - Identificación y firma electrónica II. - Identificación y firma electrónica (2) Prestación de servicios públicos y privados. Infraestructura de clave pública (PKI). Mecanismos de identificación y firma: «Smart Cards», DNI electrónico, mecanismos biométricos.
+T79 - 79 - B2 - Adaptación LOPD. - Adaptación de aplicaciones y entornos a los requisitos de la normativa de protección de datos según los niveles de seguridad. Herramientas de cifrado y auditoría.
+T80 - 80 - B2 - El tratamiento de imágenes. - El tratamiento de imágenes. Tecnologías de digitalización y de impresión. Impresión 3D.
+T81 - 81 - B2 - Reconocimiento óptico de caracteres. - Reconocimiento óptico de caracteres (OCR, ICR). Reconocimiento biométrico.
+T82 - 82 - B3 - Modelos de ciclo de vida. - El ciclo de vida de los sistemas de información. Modelos del ciclo de vida.
+T83 - 83 - B3 - Plan de sistemas de información. - Planificación estratégica de sistemas de información y de comunicaciones. El plan de sistemas de información.
+T84 - 84 - B3 - Análisis de sistemas y metodologías ágiles. - Análisis funcional de sistemas, casos de uso e historias de usuario. Metodologías de desarrollo de sistemas. Metodologías ágiles: Scrum y Kanban.
+T85 - 85 - B3 - Análisis del dominio de los sistemas. - Análisis del dominio de los sistemas: Modelado de dominio, modelo entidad relación y modelos de clases.
+T86 - 86 - B3 - Análisis dinámico de sistemas. - Análisis dinámico de sistemas: Modelado de procesos, modelado dinámico y BPMN (Business Process Model and Notation).
+T87 - 87 - B3 - Análisis de aspectos no funcionales. - Análisis de aspectos no funcionales: Rendimiento, seguridad, privacidad.
+T88 - 88 - B3 - Diseño arquitectónico de sistemas. - Diseño arquitectónico de sistemas. Diagramas de despliegue.
+T89 - 89 - B3 - Técnicas de diseño de software. - Técnicas de diseño de software. Diseño por capas y patrones de diseño.
+T90 - 90 - B3 - Prototipos en el desarrollo de sistemas. - La elaboración de prototipos en el desarrollo de sistemas. Diseño de interfaces de aplicaciones.
+T91 - 91 - B3 - Metrica - La metodología de planificación y desarrollo de Sistemas de Información Métrica.
+T92 - 92 - B3 - Pruebas de software. - Procesos de pruebas y garantía de calidad en el desarrollo de software. Planificación, estrategia de pruebas y estándares. Niveles, técnicas y herramientas de pruebas de software. Criterios de aceptación de software.
+T93 - 93 - B3 - Evaluación de la calidad del software. - Métricas y evaluación de la calidad del software. La implantación de la función de calidad.
+T94 - 94 - B3 - Estimación de recursos. - La estimación de recursos y esfuerzo en el desarrollo de sistemas de información.
+T95 - 95 - B3 - Migración de aplicaciones y ajuste dimensional. - La migración de aplicaciones en el marco de procesos de ajuste dimensional y por obsolescencia técnica. Gestión de la configuración y de versiones. Gestión de entornos.
+T96 - 96 - B3 - Mantenimiento de sistemas. - Mantenimiento de sistemas. Mantenimiento predictivo, adaptativo y correctivo. Planificación y gestión del mantenimiento.
+T97 - 97 - B3 - Reingeniería de sistemas. - Reingeniería de sistemas de información e ingeniería inversa.
+T98 - 98 - B3 - Calidad de los servicios. - La calidad en los servicios de información. El Modelo EFQM y la Guía para los servicios ISO 9004.
+T99 - 99 - B3 - Gestión documental. - Gestión documental. Gestión de contenidos. Tecnologías CMS y DMS de alta implantación.
+T100 - 100 - B3 - Sistemas de recuperación de la información. - Sistemas de recuperación de la información. Políticas, procedimientos y métodos para la conservación de la información.
+T101 - 101 - B3 - ITIL y COBIT. - Planificación y control de las TIC: Gestión de servicios e infraestructuras TIC, gestión del valor de las TIC. Acuerdos de Nivel de Servicio. Gestión de incidencias. Bases conceptuales de ITIL (IT Infrastructure Library), y CoBIT (Control Objetives for Information and Related Technology), objetivos de control y métricas.
+T102 - 102 - B4 - Redes de telecomunicaciones. - Redes de telecomunicaciones. Conceptos. Medios de transmisión. Conmutación de circuitos y paquetes. Protocolos de encaminamiento. Infraestructuras de acceso. Interconexión de redes. Calidad de servicio.
+T103 - 103 - B4 - Internet. - La red Internet y los servicios básicos.
+T104 - 104 - B4 - Cableado. - Sistemas de cableado y equipos de interconexión de redes.
+T105 - 105 - B4 - Modelo OSI. - El modelo de referencia de interconexión de sistemas abiertos (OSI) de ISO: arquitectura, capas, interfaces, protocolos, direccionamiento y encaminamiento.
+T106 - 106 - B4 - Tecnologías de acceso. - Tecnologías de acceso: Fibra (GPON, FTTH), Móviles (LTE), Inalámbrica.
+T107 - 107 - B4 - Redes de transporte. - Redes de transporte: JDSxWDM, MPLS. Redes de agregación: ATM, Carrier Ethernet - VPLS (H-VPLS).
+T108 - 108 - B4 - Redes inalámbricas. - Redes inalámbricas: El estándar IEEE 802.11.Características funcionales y técnicas. Sistemas de expansión del espectro. Sistemas de acceso. Autenticación. Modos de operación. Bluetooth. Seguridad, normativa reguladora.
+T109 - 109 - B4 - Redes IP. - Redes IP: Arquitectura de redes, encaminamiento y calidad de servicio. Transición y convivencia IPv4 - IPv6. Funcionalidades específicas de IPv6.
+T110 - 110 - B4 - Redes de nueva generación. - Redes de nueva generación y servicios convergentes (NGN/IMS). VoIP, ToIP y Comunicaciones Unificadas.
+T111 - 111 - B4 - Transformación digital. - La Transformación Digital e Industria 4.0: Ciudades inteligentes. Internet de las Cosas (IoT).
+T112 - 112 - B4 - Redes de área local. - Redes de área local. Arquitectura. Tipología. Medios de transmisión. Métodos de acceso. Dispositivos de interconexión. Gestión de dispositivos. Administración de redes LAN. Gestión de usuarios en redes locales. Monitorización y control de tráfico. Gestión SNMP. Configuración y gestión de redes virtuales (VLAN). Redes de área extensa.
+T113 - 113 - B4 - Intranet y extranet. - Arquitectura de las redes Intranet y Extranet. Concepto, estructura y características. Su implantación en las organizaciones. Modelo de capas: Servidores de aplicaciones, servidores de datos, granjas de servidores.
+T114 - 114 - B4 - Redes públicas. - Las redes públicas de transmisión de datos. La red SARA. La red sTESTA. Planificación y gestión de redes.
+T115 - 115 - B4 - CATV. - Telecomunicaciones por cable (CATV). Estructura de la red de cable. Operadores del mercado. Servicios de red.
+T116 - 116 - B4 - Correo electrónico. - El correo electrónico. Servicios de mensajería. Servicios de directorio.
+T117 - 117 - B4 - Comunicaciones móviles. - Las comunicaciones móviles. Generaciones de tecnologías de telefonía móvil.
+T118 - 118 - B4 - Aplicaciones móviles. - Aplicaciones móviles. Características, tecnologías, distribución y tendencias.
+T119 - 119 - B4 - Seguridad en redes. - La seguridad en redes. Tipos de ataques y herramientas para su prevención: cortafuegos, control de accesos e intrusiones, técnicas criptográficas, etc. Medidas específicas para las comunicaciones móviles.
+T120 - 120 - B4 - Seguridad en el nivel de aplicación. - La seguridad en el nivel de aplicación. Tipos de ataques y protección de servicios web, bases de datos e interfaces de usuario.
+T121 - 121 - B4 - Regulación de las telecomunicaciones. - Normas reguladoras de las telecomunicaciones. La Comisión Nacional de los Mercados y la Competencia (CNMC): Organización, funciones y competencia en el ámbito de las telecomunicaciones.
+T122 - 122 - B4 - Videoconferencia. - Sistemas de videoconferencia. Herramientas de trabajo en grupo. Dimensionamiento y calidad de servicio en las comunicaciones y acondicionamiento de salas y equipos. Streaming de video.
+T123 - 123 - B4 - Single sign-on. - Acceso remoto a sistemas corporativos: gestión de identidades, single sign-on y teletrabajo.
+T124 - 124 - B4 - Virtualización de sistemas. - Virtualización de sistemas y de centros de datos. Virtualización de puestos de trabajo. Maquetas de terminales Windows y de servidores Linux.
+T125 - 125 - B4 - Trabajo colaborativo y redes sociales. - Herramientas de trabajo colaborativo y Redes sociales. La Guía de comunicación digital de la Administración del Estado.
